@@ -1284,15 +1284,7 @@ aside.widget.widget-tag-cloud a:hover{
     height: 100%;
     object-fit: cover;
 }
-.team-single .pbmit-team-detail{
-	position: relative;
-    border-radius: 30px;
-    margin-left: -40px;
-    background: var(--pbmit-white-color);
-    background-image: url(../images/team/team-detail-pattern.png);
-    background-position: bottom center;
-    background-repeat: no-repeat;
-}
+
 .team-single .pbmit-team-detail .pbmit-team-des{
 	padding: 120px 100px 0 100px;
 }
@@ -1450,4 +1442,6 @@ textarea.form-control{
 .form-control:focus::placeholder{
 	opacity: 1;
 }
-
+.img-icon{
+    width:30px;
+}
