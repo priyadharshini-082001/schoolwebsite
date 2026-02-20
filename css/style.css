@@ -20,6 +20,11 @@
 #page{
 	overflow: hidden;
 }
+.record{
+    font-size: 20px;
+    line-height: 1.7rem;
+}
+
 /** Homepage 01 **/
 .ihbox-section-one{
 	padding: 25px 10px 100px 10px;
